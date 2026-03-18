@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "It's Been A Long Time",
+  "base_artist": "Rakim",
+  "createdAt": "2026-03-18T17:59:00.541879Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's Been A Long Time",
+      "artist": "Rakim",
+      "has_synced": true,
+      "path": "select/01_It's_Been_A_Long_Time_Rakim.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Been A Long Time",
+      "artist": "Rakim",
+      "has_synced": true,
+      "path": "select/02_It's_Been_A_Long_Time_Rakim.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's Been A Long Time feat. DJ\u0000﻿It's Been A Long Time feat. DJ",
+      "artist": "Rakim",
+      "has_synced": true,
+      "path": "select/03_It's_Been_A_Long_Time_feat._DJ\u0000﻿It's_Been_A_Long_Time_feat._DJ_Rakim.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's Been A Long Time",
+      "artist": "Solar",
+      "has_synced": true,
+      "path": "select/04_It's_Been_A_Long_Time_Solar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(It's Been a) Long Time",
+      "artist": "Trooper",
+      "has_synced": true,
+      "path": "select/05_(It's_Been_a)_Long_Time_Trooper.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's Been a Long Time",
+      "artist": "Shadrow",
+      "has_synced": false,
+      "path": "select/06_It's_Been_a_Long_Time_Shadrow.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's Been A Long Time",
+      "artist": "Rakim",
+      "has_synced": true,
+      "path": "select/07_It's_Been_A_Long_Time_Rakim.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's Been a Long Time",
+      "artist": "Dead or Alive",
+      "has_synced": false,
+      "path": "select/08_It's_Been_a_Long_Time_Dead_or_Alive.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It’s Been a Long Time",
+      "artist": "Dead or Alive",
+      "has_synced": false,
+      "path": "select/09_It’s_Been_a_Long_Time_Dead_or_Alive.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's Been A Long Time",
+      "artist": "Luther Alison",
+      "has_synced": true,
+      "path": "select/10_It's_Been_A_Long_Time_Luther_Alison.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's Been a Long Time",
+      "artist": "FFH",
+      "has_synced": true,
+      "path": "select/11_It's_Been_a_Long_Time_FFH.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It's Been A Long Time",
+      "artist": "Rakim",
+      "has_synced": true,
+      "path": "select/12_It's_Been_A_Long_Time_Rakim.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It's Been A Long Time",
+      "artist": "Lady Wray",
+      "has_synced": true,
+      "path": "select/13_It's_Been_A_Long_Time_Lady_Wray.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's Been A Long Time",
+      "artist": "Harry James",
+      "has_synced": true,
+      "path": "select/14_It's_Been_A_Long_Time_Harry_James.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's Been A Long Time",
+      "artist": "Mark Schultz",
+      "has_synced": false,
+      "path": "select/15_It's_Been_A_Long_Time_Mark_Schultz.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It's Been A Long Time",
+      "artist": "Southside Johnny",
+      "has_synced": true,
+      "path": "select/16_It's_Been_A_Long_Time_Southside_Johnny.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "It's Been a Long Time",
+      "artist": "Jackie Wilson",
+      "has_synced": false,
+      "path": "select/17_It's_Been_a_Long_Time_Jackie_Wilson.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "It's Been a Long Time",
+      "artist": "The New Birth",
+      "has_synced": true,
+      "path": "select/18_It's_Been_a_Long_Time_The_New_Birth.lrc"
+    }
+  ]
+}
